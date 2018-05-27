@@ -1,6 +1,4 @@
 # hello-world
 My first repository
 
-//I'm writing code! Maybe! Gonna commit this! Wowee!
-
-console.log('Go girl!');
+This is just a README file! No code here!
